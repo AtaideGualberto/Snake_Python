@@ -1,2 +1,3 @@
 # Snake_Python
-Snake game built in Python using Tkinter package as visual interface
+[EN] Snake game built in Python using Tkinter package as GUI
+[PT-BR] Jogo da cobrinha feito em Python utilizando o pacote Tkinter como interface gráfica
